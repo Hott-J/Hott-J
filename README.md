@@ -5,7 +5,6 @@
 </div>
 
 ### Hi there 👋
-### 채팅봇을 만들고 있습니다,,,
 
 <!--
 **Hott-J/Hott-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
