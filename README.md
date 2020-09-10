@@ -4,7 +4,7 @@
 	
 </div>
 
-### 안녕하세요 👋
+### 안녕하세요. 👋
 
 <!--
 **Hott-J/Hott-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
