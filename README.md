@@ -4,7 +4,7 @@
 	
 </div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hott-J&show_icons=true&theme=radical)
 
 <!--
 **Hott-J/Hott-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
