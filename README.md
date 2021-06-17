@@ -6,6 +6,8 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hott-J&show_icons=true&theme=radical)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chung1306)](https://solved.ac/chung1306)
+
 <!--
 **Hott-J/Hott-J** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
