@@ -8,6 +8,3 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chung1306)](https://solved.ac/chung1306)
 
-- 🔭 Clean Code
-- 👯 객체지향 Solid
-
