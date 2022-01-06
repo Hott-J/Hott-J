@@ -2,8 +2,6 @@
 	
 </div>
 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hott-J&show_icons=true&theme=radical)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chung1306)](https://solved.ac/chung1306)
