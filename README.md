@@ -6,5 +6,5 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chung1306)](https://solved.ac/chung1306)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hott-J&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hott-J&theme=chalk&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
